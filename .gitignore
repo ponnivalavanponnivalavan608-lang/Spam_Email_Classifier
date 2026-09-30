@@ -1,0 +1,10 @@
+Spam_Email_Classifier
+├── .gitignore      ← HERE
+├── app.py
+├── requirements.txt
+├── train_model.py
+├── prepare_data.py
+├── check_dataset.py
+├── dataset
+├── model
+└── venv
